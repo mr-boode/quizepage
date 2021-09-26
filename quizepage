@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+                                              
+<title>1740893</title>
+<body>
+
+<h2>Which one of the following are showing in the image below </h2>
+<pre>
+-ul Tags
+-Merged cells
+-Radio Buttons
+-Sub and Sup tags
+
+
+By Clicking on the image, the region should hyperlink(selected) and the correct answer should appear by hovering the mouse on the region such as:
+
+</pre>
+
+
+<img    src="sub.jpeg"  alt="sub" usemap="#sub" width="200" height="200">
+
+<map name="sub">
+    
+  <area shape="default" coords="34,44,270,350" alt="" href="https://www.google.com/search?q=sub+tags+in+html"title="sub and sup tags">
+  <area shape="default" coords="290,172,333,250" alt="" href="https://www.google.com/search?q=sub+tags+in+html"title="sub and sup tags">
+  <area shape="default" coords="337,300,44" alt="" href="https://www.google.com/search?q=sub+tags+in+html"title="sub and sup tags">
+
+</map>
+
+
+
+<img    src="ul.jpeg"  alt="ul" usemap="#ul" width="200" height="200">
+
+<map name="ul">
+    
+  <area shape="default" coords="34,44,270,350" alt="" href="https://www.google.com/search?q=ul+html"title="ul tags">
+  <area shape="default" coords="290,172,333,250" alt="" href="https://www.google.com/search?q=ul+html"title="ul tags">
+  <area shape="default" coords="337,300,44" alt="" href="https://www.google.com/search?q=ul+html"title="ul tags">
+
+</map>
+
+
+
+
+<br>
+
+
+
+<img    src="radio.jpeg"  alt="radio" usemap="#radio" width="200" height="200">
+
+<map name="radio">
+    
+  <area shape="default" coords="34,44,270,350" alt="" href="https://www.google.com/search?q=radio+button+html"title="radio buttons">
+  <area shape="default" coords="290,172,333,250" alt="" href="https://www.google.com/search?q=radio+button+html"title="radio buttons">
+  <area shape="default" coords="337,300,44" alt="" href="https://www.google.com/search?q=radio+button+html"title="radio buttons">
+
+</map>
+<img    src="merged.jpeg"  alt="merged" usemap="#merged" width="200" height="200">
+
+<map name="merged">
+    
+  <area shape="default" coords="34,44,270,350" alt="" href="https://www.google.com/search?q=merged+cells+html"title="merged cells">
+  <area shape="default" coords="290,172,333,250" alt="" href="https://www.google.com/search?q=merged+cells+html"title="merged cells">
+  <area shape="default" coords="337,300,44" alt="" href="https://www.google.com/search?q=merged+cells+html"title="merged cells">
+
+</map>
+
+    <p><a href="homeworkspage.html">Go Back to Homework webpage</a></p>  
+</body>
+
+
+
+
+
+</html>
